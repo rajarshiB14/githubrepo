@@ -1,3 +1,3 @@
 # author: Rajatshi B
 
-message: This is a github practice repository.
+message: This was github practice repository.
